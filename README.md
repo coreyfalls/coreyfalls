@@ -6,4 +6,4 @@
 
 🤝 Let's Connect! I'm eager to explore opportunities and connect with like-minded professionals. Whether it's discussing the latest trends in cybersecurity or exploring potential collaborations, let's connect and see how my skills and experiences can contribute to the success of your team!
 
-<a href="mailto:cyb3rjutsu@gmail.com?"></a>
+<a href="mailto:cyb3rjutsu@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=black"/></a>
